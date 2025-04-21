@@ -10,7 +10,10 @@
 - Async/Await for API calls  
 - NavigationStack for routing  
 
-## ✨ Screenshots 
+## ✨ Screenshots And Video
+
+https://github.com/user-attachments/assets/8d866ca9-c797-4d80-b0ec-c6aa0cfbe02c
+
 <img width="268" alt="Screenshot 2025-04-21 at 5 02 16 PM" src="https://github.com/user-attachments/assets/f703023b-058c-433f-b1e1-e2b5c85bb638" />
 
 <img width="271" alt="Screenshot 2025-04-21 at 5 02 54 PM" src="https://github.com/user-attachments/assets/2bb95b2d-650f-4a52-b4e1-28ddb241f8a1" />
