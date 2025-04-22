@@ -3,14 +3,14 @@
 
 ## 📱 App Description
 **Title:** Canon's Crazy COMP SCI Trivia!  
-**Purpose:** A fun multiplayer trivia game where players compete head-to-head answering COMP SCI questions  
+**Purpose:** Multiplayer trivia game where players compete head-to-head answering COMP SCI questions  
 **Tools Used:**  
 - SwiftUI (iOS/macOS)
 - Xcode tools: ForEach Loops, @State Properties, Binding Variables, Textfields, Sheet Views, etc
 - Async/Await for API calls  
 - NavigationStack for routing  
 
-## ✨ Screenshots And Video
+## Screenshots And Video
 
 https://github.com/user-attachments/assets/8d866ca9-c797-4d80-b0ec-c6aa0cfbe02c
 
@@ -24,13 +24,13 @@ https://github.com/user-attachments/assets/8d866ca9-c797-4d80-b0ec-c6aa0cfbe02c
 
 <img width="261" alt="Screenshot 2025-04-21 at 5 03 22 PM" src="https://github.com/user-attachments/assets/73b55cc0-3750-44a4-892c-64e0f29af948" />
 
-## ✨ Key Features
+## Key Features
 - **Multiplayer Mode**: Add unlimited players with custom names & colors  
 - **Dynamic Question Loading**: Pulls fresh questions from Open Trivia DB  
 - **Score Tracking**: Real-time score updates during gameplay  
 - **Victory Screen**: Animated winner celebration with full scoreboard  
 
-## 🚧 Challenges & Future Plans
+## Challenges & Future Plans
 **Obstacles Overcome:**  
 - Managed complex navigation between 4+ views  
 - Synchronized game state across multiple players  
